@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi, I'm Atharva 👋<br><br>🎓 Computer Science Diploma Graduate from India<br><br>I'm passionate about creating technology that solves real problems and helps people learn.<br><br>My interests include:<br>🤖 Robotics<br>🌐 Web Development<br>🧠 Artificial Intelligence<br>📡 IoT<br>🎮 Game Development<br><br>Currently building projects through AkTechh Solution while continuously expanding my skills in software development and emerging technologies.<br><br>I believe the best way to learn is by building.
+# About Me:
+# Hi, I'm Atharva <br><br>🎓 Computer Science Diploma Graduate from India<br><br>I'm passionate about creating technology that solves real problems and helps people learn.<br><br>My interests include:<br> Robotics<br>  Web Development<br> Artificial Intelligence<br>📡 IoT<br> Game Development<br><br>Currently building projects through AkTechh Solution while continuously expanding my skills in software development and emerging technologies.<br><br>I believe the best way to learn is by building.
 
 
 ## 🌐 Socials:
